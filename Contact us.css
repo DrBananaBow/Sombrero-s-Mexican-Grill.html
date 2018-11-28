@@ -1,0 +1,53 @@
+h1 {
+color: white;
+text-align: center;
+}
+
+h2 {
+color: white;
+margin-top: 75px;
+text-align: center;
+}
+
+h3 {
+color: white;
+font-size: 24px;
+}
+
+h4 {
+color: white;
+
+}
+
+a { 
+color: inherit;
+} 
+
+.b1,.b2,.b3,.b4,.b5 {
+border:solid green;
+display:table;
+position:relative;
+float:left;
+margin-left:12px;
+width:19%;
+height:15px;
+text-align:center;
+font-size:20px;
+height:20px;
+margin-bottom:5px;
+border-radius:30px;
+}
+
+div {
+color: white;
+}
+
+html {
+background-color: rgb(0,0,45);
+}
+table {
+	height: 20px;
+	float: right;
+	color: white;
+	font-size: 24px;
+}

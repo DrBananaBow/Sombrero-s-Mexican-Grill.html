@@ -1,0 +1,81 @@
+h1 {
+text-align: center;
+color:       white;
+font-size:    35px;
+}
+table {
+padding-top:   50px;
+padding-left: 300px;
+padding-right: 50px;
+}
+
+html {
+background-color: rgb(0,0,45);
+}
+
+th {
+color:    white;
+height:     1px;
+padding:   10px;
+font-size: 28px;
+}
+td {
+color:            white;
+padding-bottom:     5px;
+}
+
+.list1 {
+color:       white;
+width:       500px;
+text-align: center;
+}
+
+.list2 {
+color:       white;
+text-align: center;
+}
+
+.list3 {
+color:       white;
+text-align: center;
+}
+
+.list4 {
+color:       white;
+text-align: center;
+}
+
+.list5 {
+color:       white;
+text-align: center;
+}
+
+.list6 {
+color:       white;
+text-align: center;
+}
+
+.list7 {
+color:       white;
+text-align: center;
+}
+a { 
+color: inherit;
+ } 
+ .b1,.b2,.b3,.b4,.b5 {
+border: Solid green;
+display:      table;
+position:  relative;
+float:         left;
+margin-left:   12px;
+width:          19%;
+height:        15px;
+text-align:  center;
+font-size:     20px;
+height:        20px;
+margin-bottom:  5px;
+border-radius: 30px;
+}
+div {
+	color: white;
+}

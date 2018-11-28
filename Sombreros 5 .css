@@ -1,0 +1,52 @@
+h1 {
+text-align: center;	
+color:       white;
+font-size:    35px;
+}	
+html {
+	background-color: rgb(0,0,45);
+}
+div {
+	color: white;
+}
+.b1,.b2,.b3,.b4,.b5 {
+border: Solid green;
+display:      table;
+position:  relative;
+float:         left;
+margin-left:   12px;
+width:          19%;
+height:        15px;
+text-align:  center;
+font-size:     20px;
+height:        20px;
+margin-bottom: 30px;
+border-radius: 30px;
+overflow:      auto;
+}
+a {
+color: inherit;
+ } 
+ p {
+	 Font-size:    25px;
+	 text-align: center;
+	 padding-top:  20px;
+	  color:      white;
+	  padding: 100px;
+ }
+h3 {
+	text-align:   center;
+	color:         white;
+	padding-bottom: 30px;
+}
+h6 {
+font-size: 23px;
+color: white;
+text-align: center;
+}
+.img2 img{
+	height: 350px;
+	width: 350px;
+	margin-left: 215px;
+}
+

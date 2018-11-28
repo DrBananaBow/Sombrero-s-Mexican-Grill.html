@@ -1,0 +1,96 @@
+.wp-table tr:nth-child(odd) {
+   background-color: rgb(0,0,45);
+}
+
+.wp-table tr:nth-child(even) {
+   background-color: rgb(0,0,45);
+}
+
+.wp-table tr {
+   border-bottom: 1px solid rgb(0,255,0);
+  
+}
+
+.wp-table th:first-child, 
+.wp-table td:first-child {
+   padding-left: 8px;
+}
+
+
+.wp-table td 
+{
+   padding:  35px 16px;
+   display: table-cell;
+   text-align:  center;
+   vertical-align: top;
+}
+
+.wp-table th
+{
+   padding:  80px 16px;
+   display: table-cell;
+   text-align:  center;
+   vertical-align: top;
+   font-weight:   bold;
+}
+
+
+.wp-table {
+   font-size: 13px!important;
+   border: 1px solid green;
+   border-collapse: collapse;
+   border-spacing: 0;
+   width: 40%;
+height: 75%;
+   display: table;
+}
+ 
+
+body {
+   color: white;
+}
+
+html {
+background-color: rgb(0,0,45);
+}
+
+h1 {
+text-align: center;
+font-size: 35px;
+}
+
+td {
+font-size: 16pt;
+}
+
+th {
+font-size: 25pt;
+}
+
+.wp-table
+{ 
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+
+}
+.b1,.b2,.b3,.b4,.b5 {
+border: Solid green;
+display:      table;
+position:  relative;
+float:         left;
+margin-left:   12px;
+width:          19%;
+height:        15px;
+text-align:  center;
+font-size:     20px;
+height:        20px;
+margin-bottom: 15px;
+border-radius: 30px;
+}
+a { 
+color: inherit;
+ } 
+
